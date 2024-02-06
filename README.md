@@ -32,7 +32,7 @@
       <span><b>Nginx</span><br><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/nginx.svg"></td>
       <td width="25%" align="center">
-      <span><b>REACT</span><br><br><br>
+      <span><b>REACT NATIVE</span><br><br><br>
       <img height="64px" src="https://img.icons8.com/officel/2x/react.png"></td>
     </tr>   
       <tr valign="top"> 
