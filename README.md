@@ -2,7 +2,7 @@
 # Jintu Pradeep
 
 [![Gmail](https://img.shields.io/badge/GMAIL-green)](mailto:jintupradeep@gmail.com)
-[![LinkedIn Connect](https://img.shields.io/badge/LINKEDIN-yellow)](www.linkedin.com/in/jintu-pradeep/)
+[![LinkedIn Connect](https://img.shields.io/badge/LINKEDIN-yellow)](https://www.linkedin.com/in/jintu-pradeep/)
 [![LinkedIn Connect](https://img.shields.io/badge/WEBSITE-red)](https://jintu-portfolio.vercel.app/)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Jintu+Pradeep;+Welcome+to+My+Profile!;Over+1.11+years+of+programming+experience;Always+learning+new+things+;Android++enthusiast+;Front+end+Developer;)](https://git.io/typing-svg)
 
@@ -43,9 +43,17 @@
       <td width="25%" align="center">
       <span><b>Nest Js</span><br><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg"></td>
+      <td width="25%" align="center">
+      <span><b>Express</span><br><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/express.svg"></td>  
     </tr>   
   </tbody>
 </table>
 
 <!-- ![Jintu's github stats](https://github-readme-stats.vercel.app/api?username=Jintu&hide=["issues"]&show_icons=true&theme=dark)
 [![Jintu GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jintup&langs_count=5&theme=tokyonight)]() -->
+
+
+---
+
+⚠️ Inspired from other Respositories on Github
