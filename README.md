@@ -32,8 +32,10 @@
       <span><b>Nginx</span><br><br><br>
       <img height="64px" src="https://cdn.svgporn.com/logos/nginx.svg"></td>
       <td width="25%" align="center">
+      <span><b>REACT</span><br><br><br>
+      <img height="64px" src="https://img.icons8.com/officel/2x/react.png"></td>
     </tr>   
-      <tr valign="top">    
+      <tr valign="top"> 
       <td width="25%" align="center">
         <span>Typescript</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
