@@ -3,7 +3,7 @@
 
 [![Gmail](https://img.shields.io/badge/GMAIL-green)](mailto:jintupradeep@gmail.com)
 [![LinkedIn Connect](https://img.shields.io/badge/LINKEDIN-yellow)](www.linkedin.com/in/jintu-pradeep)
-[![LinkedIn Connect](https://img.shields.io/badge/WEBSITE-red)](https://my-portfolio-three-bay.vercel.app/)
+[![LinkedIn Connect](https://img.shields.io/badge/WEBSITE-red)](https://jintu-portfolio.vercel.app/)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Jintu+Pradeep;+Welcome+to+My+Profile!;Over+1.11+years+of+programming+experience;Always+learning+new+things+;Android++enthusiast+;Front+end+Developer;)](https://git.io/typing-svg)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
